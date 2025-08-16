@@ -1,0 +1,2406 @@
+{
+  "graphs": [
+    {
+      "nodes": [
+        {
+          "id": "Eat less and walk more",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "type 2 diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "global death",
+          "type": "Event",
+          "properties": {}
+        },
+        {
+          "id": "Lifestyle modification",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "lifestyle",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "vegetables",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "Beverages",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "high risk",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "carbohydrate",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "MV Hospital for Diabetes",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "activities",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "milk",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "health care promotion",
+          "type": "Service",
+          "properties": {}
+        },
+        {
+          "id": "panchayat heads",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "Chaithanya Kumar",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "Type 2 Diabetes Mellitus",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Chennai",
+          "type": "Location",
+          "properties": {}
+        },
+        {
+          "id": "education",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "primary prevention of diabetes",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Channels",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "Camps",
+          "type": "Event",
+          "properties": {}
+        },
+        {
+          "id": "Oils",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "source",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "clinical practice",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Dr.Shabana Tharkar",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "appetite",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "Diabetes Research Centre",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "healthier eating habits",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "vision loss",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "Impaired Glucose Tolerance",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Dairy Products",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "proteins",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "physical activity level",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "techniques",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "meditation",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "BMI",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "jogging",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "cholesterol level",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "waist circumference",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "Early Glucose Intolerance",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "high risk approach",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "Pre - diabetes stage",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "IFG Impaired Fasting Glucose",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "High risk approach",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "prevention of diabetes",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "index",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "lipid disorders",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "sugar",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "fasting blood sugar",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "disease",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "fruits",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "Cereals",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "peripheral neuropathy",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Deep breathing exercises",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "smoking",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "healthworkers",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "Age",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "burden of illness",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "rural setting",
+          "type": "Location",
+          "properties": {}
+        },
+        {
+          "id": "sugars",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "exercise",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Food Guide Pyramid",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "health personnel",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "population strategy",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "medications",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "lifestyle modification",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Screening",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "yoga",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "reduction in the incidence of diabetes",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Nuts",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "broccoli",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "cardiovascular disease",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Hypertension",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "oral hypoglycemic agents",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Health promotion",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Prevention Strategies",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "food",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "Amlodipine",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Advertisements",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "alcohol",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "oils",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "counseling",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Conditions",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "kidney failure",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Blood pressure",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "active lifestyle",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "The target high risk groups",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "weight",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "body health status",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "strawberries",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "Sugar",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "Parameters",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "Health educators",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "Methods",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "relaxation techniques",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "vitamins",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "diagnostic tests",
+          "type": "Tool",
+          "properties": {}
+        },
+        {
+          "id": "protein",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "major meal",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "primary health centres",
+          "type": "Location",
+          "properties": {}
+        },
+        {
+          "id": "minerals",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "refined foods",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "dietary habits",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "diet pattern",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "the general public",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "Type 2 Diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "IGT Impaired Glucose Tolerance",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Water",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "activity",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Lipid profile",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "food intake",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Fruits",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "community",
+          "type": "Location",
+          "properties": {}
+        },
+        {
+          "id": "paramedics",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "WHO Collaborating Centre for Research, Education & Training in Diabetes",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "representation",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "sweets",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "apple",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "families",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "diet",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "height",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "flax seeds",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "general obesity",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "healthy diet",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "regular medication",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Ms.Nandhini",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "Pre-diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "community-based exercise",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "fat",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "healthy lifestyle habits",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "Adults",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "Diabetic retinopathy",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "high risk category",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "voluntary services",
+          "type": "Service",
+          "properties": {}
+        },
+        {
+          "id": "anthropometric index",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "policy makers",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "Dr.K.Satyavani",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "EGI Early Glucose Intolerance",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "topic",
+          "type": "Topic",
+          "properties": {}
+        },
+        {
+          "id": "healthy lifestyle",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "healthy eating habits",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "risk factors",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "meals",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "abdominal fatness",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Body Mass Index",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "greens",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "statin therapy",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "active lifestyles",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "countries",
+          "type": "Location",
+          "properties": {}
+        },
+        {
+          "id": "Pulses",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "Foods",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "body weight",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "healthy nutrition programs",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "doctors",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "Hyperlipidemia",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Rapid-acting insulin lispro",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Indians",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "Dept. of Nutrition",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "M. V . Hospital for Diabetes",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "approaches",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "high blood sugar",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Social and service clubs",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "music",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "early nephropathy",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "health",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "stress",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Normal female",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "health care system",
+          "type": "Service",
+          "properties": {}
+        },
+        {
+          "id": "negative energy balance",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "cereals",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "Protein foods",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "body mass index",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "swimming",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Primary prevention",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "pineapple",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "WHO Collaborating Centre",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "General Practitioners",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "modification",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "WHO Collaborating Centre for Diabetes",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "Body mass",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "Dr. Vijay Viswanathan",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "Diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Dept. of Epidemiology",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "Lectures",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Government bodies",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "sodium",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "High Risk approach",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "relaxation",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "diabetes prevention",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "cauliflower",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "saturated fat",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "insulin therapy",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Health workers",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "primary prevention of diabetes",
+          "type": "Topic",
+          "properties": {}
+        },
+        {
+          "id": "India",
+          "type": "Location",
+          "properties": {}
+        },
+        {
+          "id": "Meat products",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "Oral Glucose Tolerance Test",
+          "type": "Tool",
+          "properties": {}
+        },
+        {
+          "id": "heightened cardiovascular risk",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "habits",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Normal male",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "high blood pressure",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Regular exercise",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Walnuts",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "milk products",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "balanced diet",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "Sedentary lifestyle",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "health promotion",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "drug therapy",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "high risk groups",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "papaya",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "family history of diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Impaired fasting Glucose",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Vegetables",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "fish",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "hypertension",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "individual counseling",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "NGOs",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "diet control",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Community welfare associations",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "display items",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "health services",
+          "type": "Service",
+          "properties": {}
+        },
+        {
+          "id": "blood glucose",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "walking",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "physical activity",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "primary prevention",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Private health organizations",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "Population approach",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "children",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "reduction in the prevalence",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Atorvastatin",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "childhood obesity",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "stair climbing",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "health care professionals",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "cholesterol",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "starches",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "good health",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "Distribution of pamphlets",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "pyramid",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "skipping",
+          "type": "Process",
+          "properties": {}
+        }
+      ],
+      "relationships": [
+        {
+          "source": "primary prevention of diabetes",
+          "target": "topic",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Dr.Shabana Tharkar",
+          "target": "Dept. of Epidemiology",
+          "type": "WORKS_FOR",
+          "properties": {}
+        },
+        {
+          "source": "Ms.Nandhini",
+          "target": "Dept. of Nutrition",
+          "type": "WORKS_FOR",
+          "properties": {}
+        },
+        {
+          "source": "Dr.K.Satyavani",
+          "target": "Diabetes Research Centre",
+          "type": "WORKS_FOR",
+          "properties": {}
+        },
+        {
+          "source": "M. V . Hospital for Diabetes",
+          "target": "Chennai",
+          "type": "LOCATED_IN",
+          "properties": {}
+        },
+        {
+          "source": "Diabetes Research Centre",
+          "target": "Chennai",
+          "type": "LOCATED_IN",
+          "properties": {}
+        },
+        {
+          "source": "WHO Collaborating Centre for Research, Education & Training in Diabetes",
+          "target": "Chennai",
+          "type": "LOCATED_IN",
+          "properties": {}
+        },
+        {
+          "source": "Type 2 Diabetes",
+          "target": "health care system",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "primary prevention of diabetes",
+          "target": "countries",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "health care professionals",
+          "target": "health care promotion",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "paramedics",
+          "target": "health care promotion",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "voluntary services",
+          "target": "health care promotion",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "WHO Collaborating Centre for Diabetes",
+          "target": "India",
+          "type": "LOCATED_IN",
+          "properties": {}
+        },
+        {
+          "source": "childhood obesity",
+          "target": "prevention of diabetes",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Dr. Vijay Viswanathan",
+          "target": "WHO Collaborating Centre",
+          "type": "WORKS_FOR",
+          "properties": {}
+        },
+        {
+          "source": "Dr. Vijay Viswanathan",
+          "target": "MV Hospital for Diabetes",
+          "type": "WORKS_FOR",
+          "properties": {}
+        },
+        {
+          "source": "Dr. Vijay Viswanathan",
+          "target": "Diabetes Research Centre",
+          "type": "WORKS_FOR",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "burden of illness",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "health services",
+          "type": "INFLUENCES",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "health personnel",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "policy makers",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "global death",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "cardiovascular disease",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "kidney failure",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "Diabetic retinopathy",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "vision loss",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "lipid disorders",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "hypertension",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "healthy diet",
+          "target": "type 2 diabetes",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "physical activity",
+          "target": "type 2 diabetes",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "India",
+          "type": "LOCATED_IN",
+          "properties": {}
+        },
+        {
+          "source": "Indians",
+          "target": "diabetes",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "disease",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "EGI Early Glucose Intolerance",
+          "target": "Pre - diabetes stage",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "IFG Impaired Fasting Glucose",
+          "target": "Pre - diabetes stage",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "IGT Impaired Glucose Tolerance",
+          "target": "Pre - diabetes stage",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Health promotion",
+          "target": "Prevention Strategies",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Primary prevention",
+          "target": "Prevention Strategies",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "health promotion",
+          "target": "active lifestyle",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "health promotion",
+          "target": "healthy eating habits",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "primary prevention",
+          "target": "active lifestyles",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "primary prevention",
+          "target": "healthier eating habits",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "health",
+          "target": "risk factors",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "prevention of diabetes",
+          "target": "High risk approach",
+          "type": "REQUIRES",
+          "properties": {}
+        },
+        {
+          "source": "High risk approach",
+          "target": "individual counseling",
+          "type": "REQUIRES",
+          "properties": {}
+        },
+        {
+          "source": "prevention of diabetes",
+          "target": "Population approach",
+          "type": "REQUIRES",
+          "properties": {}
+        },
+        {
+          "source": "Population approach",
+          "target": "community",
+          "type": "REQUIRES",
+          "properties": {}
+        },
+        {
+          "source": "reduction in the prevalence",
+          "target": "approaches",
+          "type": "DEPENDS_ON",
+          "properties": {}
+        },
+        {
+          "source": "reduction in the incidence of diabetes",
+          "target": "approaches",
+          "type": "DEPENDS_ON",
+          "properties": {}
+        },
+        {
+          "source": "Pre-diabetes",
+          "target": "high risk",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "high blood pressure",
+          "target": "high risk",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "cholesterol",
+          "target": "high risk",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "high blood sugar",
+          "target": "high risk",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "Indians",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "population strategy",
+          "target": "high risk approach",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "primary prevention of diabetes",
+          "target": "community-based exercise",
+          "type": "REQUIRES",
+          "properties": {}
+        },
+        {
+          "source": "primary prevention of diabetes",
+          "target": "healthy nutrition programs",
+          "type": "REQUIRES",
+          "properties": {}
+        },
+        {
+          "source": "Age",
+          "target": "high risk category",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "family history of diabetes",
+          "target": "high risk category",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "abdominal fatness",
+          "target": "high risk category",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Pre-diabetes",
+          "target": "high risk category",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Sedentary lifestyle",
+          "target": "high risk category",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "blood glucose",
+          "target": "diagnostic tests",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Oral Glucose Tolerance Test",
+          "target": "diagnostic tests",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "body mass index",
+          "target": "diagnostic tests",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "waist circumference",
+          "target": "diagnostic tests",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "dietary habits",
+          "target": "diagnostic tests",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "physical activity level",
+          "target": "diagnostic tests",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "stress",
+          "target": "diagnostic tests",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Early Glucose Intolerance",
+          "target": "Conditions",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Impaired fasting Glucose",
+          "target": "Conditions",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Impaired Glucose Tolerance",
+          "target": "Conditions",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Diabetes",
+          "target": "Conditions",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Body Mass Index",
+          "target": "index",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "general obesity",
+          "target": "anthropometric index",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "height",
+          "target": "Body Mass Index",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "weight",
+          "target": "Body Mass Index",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "BMI",
+          "target": "Adults",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Normal male",
+          "target": "waist circumference",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Normal female",
+          "target": "waist circumference",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "fasting blood sugar",
+          "target": "Parameters",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Body mass",
+          "target": "Parameters",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Blood pressure",
+          "target": "Parameters",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "body weight",
+          "target": "Parameters",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "cholesterol level",
+          "target": "Parameters",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Lifestyle modification",
+          "target": "diet control",
+          "type": "REQUIRES",
+          "properties": {}
+        },
+        {
+          "source": "Lifestyle modification",
+          "target": "physical activity",
+          "type": "REQUIRES",
+          "properties": {}
+        },
+        {
+          "source": "medications",
+          "target": "weight",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "lifestyle",
+          "target": "modification",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "weight",
+          "target": "sodium",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "fruits",
+          "target": "diet",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "vegetables",
+          "target": "diet",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "physical activity",
+          "target": "activity",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "smoking",
+          "target": "habits",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "alcohol",
+          "target": "habits",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Regular exercise",
+          "target": "Lipid profile",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "diet control",
+          "target": "Lipid profile",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "drug therapy",
+          "target": "Lipid profile",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "education",
+          "target": "Methods",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Screening",
+          "target": "Camps",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "education",
+          "target": "Camps",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Distribution of pamphlets",
+          "target": "Channels",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Advertisements",
+          "target": "Channels",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Lectures",
+          "target": "Methods",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "counseling",
+          "target": "Methods",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Private health organizations",
+          "target": "primary prevention",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Government bodies",
+          "target": "primary prevention",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "NGOs",
+          "target": "primary prevention",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Social and service clubs",
+          "target": "primary prevention",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Health workers",
+          "target": "primary prevention",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Health educators",
+          "target": "primary prevention",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Community welfare associations",
+          "target": "primary prevention",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "General Practitioners",
+          "target": "primary prevention",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "primary prevention of diabetes",
+          "target": "rural setting",
+          "type": "LOCATED_IN",
+          "properties": {}
+        },
+        {
+          "source": "education",
+          "target": "prevention of diabetes",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "High Risk approach",
+          "target": "high risk groups",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "diet pattern",
+          "target": "dietary habits",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "physical activity",
+          "target": "The target high risk groups",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "diabetes prevention",
+          "target": "primary health centres",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "diabetes prevention",
+          "target": "panchayat heads",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Lifestyle modification",
+          "target": "body health status",
+          "type": "INFLUENCES",
+          "properties": {}
+        },
+        {
+          "source": "walking",
+          "target": "activities",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "jogging",
+          "target": "activities",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "skipping",
+          "target": "activities",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "swimming",
+          "target": "activities",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "stair climbing",
+          "target": "walking",
+          "type": "SIMILAR_TO",
+          "properties": {}
+        },
+        {
+          "source": "yoga",
+          "target": "stress",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "meditation",
+          "target": "stress",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Deep breathing exercises",
+          "target": "stress",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "relaxation techniques",
+          "target": "music",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "negative energy balance",
+          "target": "food intake",
+          "type": "REQUIRES",
+          "properties": {}
+        },
+        {
+          "source": "vegetables",
+          "target": "meals",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "greens",
+          "target": "meals",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "proteins",
+          "target": "proteins",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "cereals",
+          "target": "proteins",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "balanced diet",
+          "target": "good health",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "diet",
+          "target": "carbohydrate",
+          "type": "CONTAINS",
+          "properties": {}
+        },
+        {
+          "source": "diet",
+          "target": "protein",
+          "type": "CONTAINS",
+          "properties": {}
+        },
+        {
+          "source": "diet",
+          "target": "fat",
+          "type": "CONTAINS",
+          "properties": {}
+        },
+        {
+          "source": "diet",
+          "target": "vitamins",
+          "type": "CONTAINS",
+          "properties": {}
+        },
+        {
+          "source": "diet",
+          "target": "minerals",
+          "type": "CONTAINS",
+          "properties": {}
+        },
+        {
+          "source": "Food Guide Pyramid",
+          "target": "representation",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "cereals",
+          "target": "pyramid",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "starches",
+          "target": "pyramid",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "fruits",
+          "target": "pyramid",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "vegetables",
+          "target": "pyramid",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "Protein foods",
+          "target": "pyramid",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "milk",
+          "target": "pyramid",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "milk products",
+          "target": "pyramid",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "Nuts",
+          "target": "pyramid",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "oils",
+          "target": "pyramid",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "sugar",
+          "target": "pyramid",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "saturated fat",
+          "target": "pyramid",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "refined foods",
+          "target": "pyramid",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "Cereals",
+          "target": "food",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Pulses",
+          "target": "food",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Vegetables",
+          "target": "food",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Fruits",
+          "target": "food",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Dairy Products",
+          "target": "food",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Meat products",
+          "target": "food",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Sugar",
+          "target": "food",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "sweets",
+          "target": "food",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Oils",
+          "target": "food",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Beverages",
+          "target": "food",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Water",
+          "target": "appetite",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "apple",
+          "target": "Foods",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "pineapple",
+          "target": "Foods",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "papaya",
+          "target": "Foods",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "strawberries",
+          "target": "Foods",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "broccoli",
+          "target": "Foods",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "cauliflower",
+          "target": "Foods",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "fish",
+          "target": "source",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Walnuts",
+          "target": "source",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "flax seeds",
+          "target": "source",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "doctors",
+          "target": "prevention of diabetes",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "healthy lifestyle",
+          "target": "clinical practice",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "healthy lifestyle",
+          "target": "families",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "healthworkers",
+          "target": "healthy lifestyle habits",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "display items",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "the general public",
+          "target": "lifestyle modification",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "lifestyle modification",
+          "target": "children",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "sugars",
+          "target": "habits",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "sweets",
+          "target": "habits",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "exercise",
+          "target": "exercise",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "yoga",
+          "target": "techniques",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "meditation",
+          "target": "techniques",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "relaxation",
+          "target": "techniques",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Type 2 Diabetes Mellitus",
+          "target": "oral hypoglycemic agents",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Type 2 Diabetes Mellitus",
+          "target": "insulin therapy",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Hypertension",
+          "target": "regular medication",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Hyperlipidemia",
+          "target": "statin therapy",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Rapid-acting insulin lispro",
+          "target": "major meal",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "Amlodipine",
+          "target": "Hypertension",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Atorvastatin",
+          "target": "Hyperlipidemia",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Type 2 Diabetes",
+          "target": "peripheral neuropathy",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Type 2 Diabetes",
+          "target": "early nephropathy",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Type 2 Diabetes",
+          "target": "heightened cardiovascular risk",
+          "type": "CAUSES",
+          "properties": {}
+        }
+      ],
+      "source_document": "combined_uploaded_documents",
+      "processing_mode": "raw",
+      "source_files": [
+        "MVH_Primary-prevention-of-diabetes.pdf",
+        "chiathanya.txt",
+        "DIABETES.pdf",
+        "Diet-sheet-in-English-min.pdf"
+      ]
+    }
+  ],
+  "summary": {
+    "total_graphs": 1,
+    "total_nodes": 240,
+    "total_relationships": 197,
+    "processing_mode": "raw"
+  }
+}

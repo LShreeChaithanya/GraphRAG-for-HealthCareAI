@@ -1,0 +1,1143 @@
+{
+  "graphs": [
+    {
+      "nodes": [
+        {
+          "id": "weight loss",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "nausea",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "stroke",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "fibre",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "excessive physical activity",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Infection",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "insulin resistance",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Giving birth to a baby over 9 pounds",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "hypoglycaemia",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "hunger",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "pancreatic beta cells",
+          "type": "Entity",
+          "properties": {}
+        },
+        {
+          "id": "diabetes mellitus",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Endocrinology, Diabetes & Metabolism",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "black coffee",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "persistent fatigue",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "blood sugar",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "lime juice",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "Being overweight",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "restrict refined carbohydrates",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "medication adherence",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "clear soups",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "pregnancy",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "salads",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "Hemoglobin A1c test",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "high blood sugar levels",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "Lowers cholesterol levels in blood",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "balanced diet",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "vomiting",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "glucometers",
+          "type": "Tool",
+          "properties": {}
+        },
+        {
+          "id": "excessive thirst",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "Exercise",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "weakness",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "Diabetic nephropathy",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "amputations",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Glycaemic index",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "Oral glucose tolerance test",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "Insulin glargine",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Rapid-acting insulin lispro",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Weight loss",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Type 2 diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "diagnosing diabetes",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Blindness",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Christian Medical College",
+          "type": "Organization",
+          "properties": {}
+        },
+        {
+          "id": "Hyperlipidemia",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "delayed your food",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Type 1 diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "tingling in the hands",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "blood glucose tests",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "Non -insulin dependent diabetes mellitus",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "numbness in the feet",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "Constant monitoring of blood glucose",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Diabetes Mellitus",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Sores on skin",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "Family history of diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Oral medications",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Diet",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "insulin",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Kidney disease",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Metformin",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "fasting blood glucose level",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "pancreas",
+          "type": "Entity",
+          "properties": {}
+        },
+        {
+          "id": "Aids in easy bowel movements",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "flavoured water",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "Hypertension",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "tingling in the feet",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "limit sodium to <2g/day",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "History of gestational diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Carbohydrates",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "numbness in the hands",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "sugars",
+          "type": "Concept",
+          "properties": {}
+        },
+        {
+          "id": "gestational diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "tingling sensations in both feet",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "delayed meals",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Heart disease",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "chronic disease",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Obesity",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Chaithanya Kumar",
+          "type": "Person",
+          "properties": {}
+        },
+        {
+          "id": "Insulin dependent diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Diabetic retinopathy",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Lowers sudden rise in blood sugars",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "Sores on feet",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "greens",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "Atorvastatin",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Gestational diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Disease of the pancreas",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "fatigue",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "difficulty concentrating",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "blood sugars",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "Helps in weight reduction",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "unintentional weight loss",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "30 minutes of moderate walking daily",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "Type 2 Diabetes Mellitus",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "foot care",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Provides satiety",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "non-healing sore on his left foot",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "Diabetic coma",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "occasional dizziness",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "Amlodipine",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "blurred vision",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "frequent urination",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "intermittent numbness in his toes",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "Healthy diet",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Structured exercise plan",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "sugary foods",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "increase high-fiber foods",
+          "type": "Method",
+          "properties": {}
+        },
+        {
+          "id": "gum infections",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "controlling diabetes",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "dietary counseling",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "Nerve damage",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "illness",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "glucose monitoring",
+          "type": "Process",
+          "properties": {}
+        },
+        {
+          "id": "Juvenile diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "bladder infections",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "Insulin injections",
+          "type": "Treatment",
+          "properties": {}
+        },
+        {
+          "id": "foods",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "increase in the blood sugar levels",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "diabetes",
+          "type": "Condition",
+          "properties": {}
+        },
+        {
+          "id": "Symptoms",
+          "type": "Symptom",
+          "properties": {}
+        },
+        {
+          "id": "diabetic education sessions",
+          "type": "Event",
+          "properties": {}
+        },
+        {
+          "id": "black tea",
+          "type": "Product",
+          "properties": {}
+        },
+        {
+          "id": "high blood sugar",
+          "type": "Symptom",
+          "properties": {}
+        }
+      ],
+      "relationships": [
+        {
+          "source": "diabetes mellitus",
+          "target": "chronic disease",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "diabetes",
+          "target": "high blood sugar levels",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "pancreas",
+          "target": "insulin",
+          "type": "CREATES",
+          "properties": {}
+        },
+        {
+          "source": "insulin resistance",
+          "target": "high blood sugar levels",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Type 1 diabetes",
+          "target": "diabetes",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Juvenile diabetes",
+          "target": "Type 1 diabetes",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Insulin dependent diabetes",
+          "target": "Type 1 diabetes",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "pancreas",
+          "target": "insulin",
+          "type": "CREATES",
+          "properties": {}
+        },
+        {
+          "source": "pancreatic beta cells",
+          "target": "insulin",
+          "type": "CREATES",
+          "properties": {}
+        },
+        {
+          "source": "insulin",
+          "target": "Type 1 diabetes",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Type 2 diabetes",
+          "target": "diabetes",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Non -insulin dependent diabetes mellitus",
+          "target": "Type 2 diabetes",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "insulin resistance",
+          "target": "high blood sugar",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Gestational diabetes",
+          "target": "diabetes",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "pregnancy",
+          "target": "high blood sugar",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Family history of diabetes",
+          "target": "Type 1 diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Disease of the pancreas",
+          "target": "Type 1 diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Infection",
+          "target": "Type 1 diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "illness",
+          "target": "Type 1 diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Obesity",
+          "target": "Type 2 diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Family history of diabetes",
+          "target": "Type 2 diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "History of gestational diabetes",
+          "target": "Type 2 diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Hypertension",
+          "target": "Type 2 diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Family history of diabetes",
+          "target": "Gestational diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Being overweight",
+          "target": "Gestational diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "gestational diabetes",
+          "target": "Giving birth to a baby over 9 pounds",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Kidney disease",
+          "target": "diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Diabetic nephropathy",
+          "target": "Kidney disease",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Blindness",
+          "target": "diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Diabetic retinopathy",
+          "target": "Blindness",
+          "type": "IS_A",
+          "properties": {}
+        },
+        {
+          "source": "Heart disease",
+          "target": "diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "stroke",
+          "target": "diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Nerve damage",
+          "target": "diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Sores on feet",
+          "target": "diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "Sores on skin",
+          "target": "diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "amputations",
+          "target": "Sores on feet",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "amputations",
+          "target": "Sores on skin",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Diabetic coma",
+          "target": "diabetes",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "fasting blood glucose level",
+          "target": "diagnosing diabetes",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "Hemoglobin A1c test",
+          "target": "controlling diabetes",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "Oral glucose tolerance test",
+          "target": "diagnosing diabetes",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "Insulin injections",
+          "target": "diabetes",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Weight loss",
+          "target": "diabetes",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Constant monitoring of blood glucose",
+          "target": "diabetes",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "blood glucose tests",
+          "target": "Constant monitoring of blood glucose",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "glucometers",
+          "target": "Constant monitoring of blood glucose",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "Oral medications",
+          "target": "diabetes",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Healthy diet",
+          "target": "diabetes",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Exercise",
+          "target": "diabetes",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Metformin",
+          "target": "Type 2 Diabetes Mellitus",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Insulin glargine",
+          "target": "Type 2 Diabetes Mellitus",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Rapid-acting insulin lispro",
+          "target": "Type 2 Diabetes Mellitus",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Amlodipine",
+          "target": "Hypertension",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Atorvastatin",
+          "target": "Hyperlipidemia",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "dietary counseling",
+          "target": "restrict refined carbohydrates",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "dietary counseling",
+          "target": "increase high-fiber foods",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "dietary counseling",
+          "target": "limit sodium to <2g/day",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "Structured exercise plan",
+          "target": "30 minutes of moderate walking daily",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "diabetic education sessions",
+          "target": "glucose monitoring",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "diabetic education sessions",
+          "target": "foot care",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "diabetic education sessions",
+          "target": "medication adherence",
+          "type": "USES",
+          "properties": {}
+        },
+        {
+          "source": "Diabetes Mellitus",
+          "target": "Diet",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "Carbohydrates",
+          "target": "increase in the blood sugar levels",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "insulin",
+          "target": "Carbohydrates",
+          "type": "DEPENDS_ON",
+          "properties": {}
+        },
+        {
+          "source": "sugars",
+          "target": "Carbohydrates",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "Glycaemic index",
+          "target": "foods",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "blood sugar",
+          "target": "Glycaemic index",
+          "type": "PART_OF",
+          "properties": {}
+        },
+        {
+          "source": "blood sugars",
+          "target": "sugary foods",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "fibre",
+          "target": "Lowers sudden rise in blood sugars",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "fibre",
+          "target": "Lowers cholesterol levels in blood",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "fibre",
+          "target": "Provides satiety",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "fibre",
+          "target": "Aids in easy bowel movements",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "fibre",
+          "target": "Helps in weight reduction",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "black coffee",
+          "target": "Diabetes",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "black tea",
+          "target": "Diabetes",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "lime juice",
+          "target": "Diabetes",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "clear soups",
+          "target": "Diabetes",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "salads",
+          "target": "Diabetes",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "greens",
+          "target": "Diabetes",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "flavoured water",
+          "target": "Diabetes",
+          "type": "RELATES_TO",
+          "properties": {}
+        },
+        {
+          "source": "hypoglycaemia",
+          "target": "delayed meals",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "hypoglycaemia",
+          "target": "excessive physical activity",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "hypoglycaemia",
+          "target": "delayed your food",
+          "type": "CAUSES",
+          "properties": {}
+        },
+        {
+          "source": "balanced diet",
+          "target": "Diabetes",
+          "type": "TREATS",
+          "properties": {}
+        },
+        {
+          "source": "Endocrinology, Diabetes & Metabolism",
+          "target": "Christian Medical College",
+          "type": "LOCATED_IN",
+          "properties": {}
+        }
+      ],
+      "source_document": "combined_uploaded_documents",
+      "processing_mode": "raw",
+      "source_files": [
+        "DIABETES.pdf",
+        "chiathanya.txt",
+        "Diet-sheet-in-English-min.pdf"
+      ]
+    }
+  ],
+  "summary": {
+    "total_graphs": 1,
+    "total_nodes": 122,
+    "total_relationships": 85,
+    "processing_mode": "raw"
+  }
+}
